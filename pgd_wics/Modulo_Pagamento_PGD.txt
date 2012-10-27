@@ -1,0 +1,18 @@
+PARA INSTALAR BASTA COPIAR PARA O DIRETORIO RAIZ
+
+
+*************PAGAMENTO DIGITAL*************
+
+*  Pagamento Digital PAD  V4.B 21/09/2011 *
+  
+*Modulo de integracao TomatoCarto 1.1.X 
+  *  
+*Wics Hosting & Web Designer            
+  *  
+*www.wics.com.br                          * 
+* contato wics@wics.com.br                * 
+
+*GNU General Public License is a free . 
+* ao Lucas Miguel
+*
+******************************************

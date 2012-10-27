@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>payment_pgdwics_title</key>
+      <value><![CDATA[PAGAMENTO DIGITAL BR V_09/10/2011 <br/><object type="application/x-shockwave-flash" data="https://www.pagamentodigital.com.br/site/banner/campanhas/_24x/05/PD_Institucional_468x60.swf?oas=https://www.pagamentodigital.com.br" width="385" height="50"><param name="movie" value="https://www.pagamentodigital.com.br/site/banner/campanhas/_24x/05/PD_Institucional_468x60.swf?oas=https://www.pagamentodigital.com.br" /><param name="wmode" value="transparent"/></object>]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_pgdwics_method_title</key>
+      <value><![CDATA[Trabalhamos com Pagamento Digital segurança na sua compra. <br/>Você será redirecionado apos confirmar o seu pedido obrigado. <br/><object type="application/x-shockwave-flash" data="https://www.pagamentodigital.com.br/site/banner/campanhas/_24x/05/PD_Institucional_468x60.swf?oas=https://www.pagamentodigital.com.br" width="360" height="60"><param name="movie" value="https://www.pagamentodigital.com.br/site/banner/campanhas/_24x/05/PD_Institucional_468x60.swf?oas=https://www.pagamentodigital.com.br" /><param name="wmode" value="transparent"/></object>]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_pgdwics_description</key>
+      <value><![CDATA[PAGAMENTO DIGITAL <br/>Requer a moeda BRL brasil, favor confirir antes .]]></value>
+      <group>modules-payment</group>
+    </definition>
+  </definitions>
+</language>

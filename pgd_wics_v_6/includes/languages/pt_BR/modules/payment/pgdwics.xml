@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>payment_pgdwics_title</key>
+      <value><![CDATA[PAGAMENTO DIGITAL BR V_09/10/2011 <br/>]]><![CDATA[<img src="https://www.pagamentodigital.com.br/site/banner/campanhas/_24x/05/PD_Institucional_468x60.gif" width="400" height="50" border="0" alt="Pagamento Digital" />]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_pgdwics_method_title</key>
+      <value><![CDATA[Pagamento Digital]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_pgdwics_description</key>
+      <value><![CDATA[Trabalhamos com Pagamento Digital segurança na sua compra. <br/>Você será redirecionado apos confirmar o seu pedido obrigado. <br/>]]><![CDATA[<img src="https://www.pagamentodigital.com.br/site/banner/campanhas/_24x/05/PD_Institucional_468x60.gif" width="390" height="50" border="0" alt="Pagamento Digital" />]]></value>
+      <group>modules-payment</group>
+    </definition>
+  </definitions>
+</language>
